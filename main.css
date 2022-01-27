@@ -1,12 +1,13 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80em;
+    background: linen;
 }
 #main{
     width: 60em;
     margin: auto;
     align-items: center;
-    background: aliceblue;
+    background: lightskyblue;
     border-radius: 5px;
 }
 #title{
@@ -19,12 +20,13 @@ body{
     font-size: 20px;
 }
 #image-div{
-    
+    padding: 10px 0px 10px 100px;
 }
 #image{
     width: 45em;
     box-shadow: 0 10px 20px rgba(0,0,0,0.10), 0 6px 6px rgba(0,0,0,0.12);
-    padding: 5px;
+    padding: auto;
+    border: solid 2px red;
 }
 #img-caption{
     padding: 10px 20px 10px 20px;
