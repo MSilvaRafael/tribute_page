@@ -15,8 +15,16 @@ body{
 }
 #image-div{
     background-color: lightskyblue;
+    height: 50em;
+    width: 70em;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #image{
-    padding: 5px 5px 5px 5px;
-    width: 90wm
+    width: 50em;
+}
+#img-caption{
+    text-align: ;
 }
